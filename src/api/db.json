@@ -1,0 +1,40 @@
+{
+    "user": [
+      { 
+        "id": 1, 
+        "type": "admin", 
+        "name": "diegoferna",
+        "cpf": "1111",
+        "telfone":"1231",
+        "email": "13235",
+        "empresa": "edburg",
+        "cnpj": "0000",
+        "segmento": [
+            {
+                "name": "Trabalhadores da construção"
+            },
+            {
+                "name": " Lojas de atacados e construção"
+            },
+            {
+                "name": "indústria da Construção"
+            },
+            {
+                "name": "Empreiteiras,Construtoras e incorporadoras"
+            },
+            {
+                "name": "Engenheiros, Arquitetos, e Design de interiores"
+            },
+            {
+                "name": "Representantes Comerciais"
+            },
+            {
+                "name": "Importação e exportação"
+            },
+            {
+                "name": "Outros"
+            }
+        ] 
+      }
+    ]  
+  }
